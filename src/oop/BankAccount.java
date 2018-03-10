@@ -4,7 +4,7 @@ public class BankAccount implements IRate {
 	
 	//variables
 	String accountNumber;
-	private static final String routingNumber = "878767";
+	private static final String routingNumber = "8767";
 	private String name;
 	private String ssn;
 	String accountType;
